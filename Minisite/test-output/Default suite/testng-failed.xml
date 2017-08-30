@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="TestNgLib.slug">
+        <methods>
+          <include name="checkCreatedslug"/>
+          <include name="configbeftes"/>
+          <include name="slugcreate"/>
+          <include name="configTest"/>
+        </methods>
+      </class> <!-- TestNgLib.slug -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
